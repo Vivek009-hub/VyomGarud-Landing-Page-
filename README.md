@@ -7,7 +7,7 @@ Built with **React** and **Tailwind CSS**, this project emphasizes a **clean, fu
 
 ## 🚀 Tech Stack
 
-- **Frontend Framework:** React *(or Next.js if used)*
+- **Frontend Framework:** React 
 - **Styling:** Tailwind CSS  
 - **Animations:** Framer Motion / CSS transitions  
 - **Fonts:** Poppins / Inter / Montserrat  
