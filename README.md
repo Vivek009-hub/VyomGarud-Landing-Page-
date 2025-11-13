@@ -1,73 +1,141 @@
-# Welcome to your Lovable project
+# 🛩️ VyomGuard – UAV Systems Landing Page
 
-## Project info
+A **modern, responsive landing page** for **VyomGuard**, a UAV / Drone Systems company specializing in **military-grade, autonomous, and precision-engineered drone solutions**.  
+Built with **React** and **Tailwind CSS**, this project emphasizes a **clean, futuristic, and professional** design that reflects **high reliability and innovation**.
 
-**URL**: https://lovable.dev/projects/f59915be-4d26-41e8-9e01-68410cdf027d
+---
 
-## How can I edit this code?
+## 🚀 Tech Stack
 
-There are several ways of editing your application.
+- **Frontend Framework:** React *(or Next.js if used)*
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion / CSS transitions  
+- **Fonts:** Poppins / Inter / Montserrat  
+- **Color Palette:**
+  - Charcoal `#1c1c1c`  
+  - White `#ffffff`  
+  - Orange Accent `#ff7b00`
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f59915be-4d26-41e8-9e01-68410cdf027d) and start prompting.
+## 📂 Project Structure
 
-Changes made via Lovable will be committed automatically to this repo.
+```bash
+vyomguard-landing/
+├── public/
+│   ├── assets/            # Images, logos, backgrounds
+│   └── favicon.ico
+├── src/
+│   ├── components/        # Reusable UI components (Hero, About, etc.)
+│   ├── pages/             # Page-level components
+│   ├── App.jsx            # Root app component
+│   ├── index.css          # Tailwind styles
+│   └── main.jsx           # Entry point
+├── package.json
+├── tailwind.config.js
+└── README.md
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🧩 Sections Overview
 
-**Use GitHub Codespaces**
+### 1. **Hero Section**
+- Company name: **VyomGuard**
+- Tagline: *“Precision in the Sky. Power on the Ground.”*
+- Bold CTA button (e.g., *“Explore Our Systems”*)
+- Strong background visual or drone imagery
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 2. **About**
+- A concise description of VyomGuard’s mission — focusing on **autonomous aerial systems**, **defense innovation**, and **engineering reliability**.
 
-## What technologies are used for this project?
+### 3. **Capabilities / Products**
+- 3–4 cards showcasing main offerings such as:
+  - Reconnaissance UAVs  
+  - Tactical Drone Systems  
+  - AI-based Navigation Systems  
+  - Ground Control Platforms  
 
-This project is built with:
+### 4. **Highlights**
+- Short feature bullets like:
+  - Military-grade precision  
+  - Advanced AI autonomy  
+  - Proven reliability  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 5. **Contact / Footer**
+- Simple contact form *(Name, Email, Message)*  
+- Company links / social media  
+- Minimal dark footer with copyright  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/f59915be-4d26-41e8-9e01-68410cdf027d) and click on Share -> Publish.
+## ⚙️ Installation & Setup
 
-## Can I connect a custom domain to my Lovable project?
+```bash
+# 1. Clone this repository
+git clone https://github.com/your-username/vyomguard-landing.git
+cd vyomguard-landing
 
-Yes, you can!
+# 2. Install dependencies
+npm install
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# 3. Run the development server
+npm run dev
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+# 4. Build for production
+npm run build
+```
+
+## 🎨 Design Guidelines
+
+- **Layout:** Responsive (mobile-first), minimalistic  
+- **Theme:** Dark with bright orange accent  
+- **Typography:** Clean sans-serif fonts with strong hierarchy  
+- **Animations:** Subtle fade/slide transitions *(Framer Motion recommended)*  
+
+---
+
+## 📸 Preview
+
+<img width="1919" height="910" alt="Screenshot 2025-11-13 124703" src="https://github.com/user-attachments/assets/9ad9f750-4cb7-4b7f-9b67-59194173c268" />
+
+
+---
+
+## 🌐 Deployment
+
+Easily deploy using one of the following:
+
+### **Vercel**
+```bash
+vercel --prod
+
+
+### **Netlify**
+- Drag and drop the `build` folder  
+- Or connect your GitHub repo for automatic deployment  
+
+---
+```
+## 📞 Contact
+
+**VyomGuard UAV Systems**  
+✉️ **Email:** info@vyomguard.com  
+
+---
+
+## 🏗️ Future Enhancements
+
+- Add product detail pages  
+- Integrate 3D drone model visualization  
+- Backend integration for contact form  
+- SEO optimization for brand visibility  
+
+---
+
+## 🧠 Inspiration
+
+- [Onomondo](https://onomondo.com/)  
+- [Raphe](https://www.raphe.com/)
+
