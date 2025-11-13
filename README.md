@@ -1,6 +1,6 @@
-# 🛩️ VyomGuard – UAV Systems Landing Page
+# 🛩️ vyomGarud – UAV Systems Landing Page
 
-A **modern, responsive landing page** for **VyomGuard**, a UAV / Drone Systems company specializing in **military-grade, autonomous, and precision-engineered drone solutions**.  
+A **modern, responsive landing page** for **vyomGarud**, a UAV / Drone Systems company specializing in **military-grade, autonomous, and precision-engineered drone solutions**.  
 Built with **React** and **Tailwind CSS**, this project emphasizes a **clean, futuristic, and professional** design that reflects **high reliability and innovation**.
 
 ---
@@ -21,7 +21,7 @@ Built with **React** and **Tailwind CSS**, this project emphasizes a **clean, fu
 ## 📂 Project Structure
 
 ```bash
-vyomguard-landing/
+vyomGarud-landing/
 ├── public/
 │   ├── assets/            # Images, logos, backgrounds
 │   └── favicon.ico
@@ -42,13 +42,13 @@ vyomguard-landing/
 ## 🧩 Sections Overview
 
 ### 1. **Hero Section**
-- Company name: **VyomGuard**
+- Company name: **vyomGarud**
 - Tagline: *“Precision in the Sky. Power on the Ground.”*
 - Bold CTA button (e.g., *“Explore Our Systems”*)
 - Strong background visual or drone imagery
 
 ### 2. **About**
-- A concise description of VyomGuard’s mission — focusing on **autonomous aerial systems**, **defense innovation**, and **engineering reliability**.
+- A concise description of vyomGarud’s mission — focusing on **autonomous aerial systems**, **defense innovation**, and **engineering reliability**.
 
 ### 3. **Capabilities / Products**
 - 3–4 cards showcasing main offerings such as:
@@ -74,8 +74,8 @@ vyomguard-landing/
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/vyomguard-landing.git
-cd vyomguard-landing
+git clone https://github.com/your-username/vyomGarud-landing.git
+cd vyomGarud-landing
 
 # 2. Install dependencies
 npm install
@@ -120,8 +120,8 @@ vercel --prod
 ```
 ## 📞 Contact
 
-**VyomGuard UAV Systems**  
-✉️ **Email:** info@vyomguard.com  
+**vyomGarud UAV Systems**  
+✉️ **Email:** info@vyomGarud.com  
 
 ---
 
